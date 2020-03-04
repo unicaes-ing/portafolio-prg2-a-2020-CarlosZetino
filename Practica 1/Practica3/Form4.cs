@@ -53,7 +53,7 @@ namespace Practica3
                     }                  
                 }               
             }
-            MessageBox.Show("El número fue enontrado " + cant + " veces.");
+            MessageBox.Show("El número fue encontrado " + cant + " veces.");
         }
     }
 }
